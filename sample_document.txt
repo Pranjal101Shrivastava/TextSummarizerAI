@@ -1,0 +1,5 @@
+Artificial Intelligence and Machine Learning
+
+Machine learning is a subset of AI that allows computers to learn from data.
+Deep learning uses neural networks with multiple layers.
+Applications include self-driving cars, voice assistants, and recommendation systems.

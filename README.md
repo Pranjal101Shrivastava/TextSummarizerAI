@@ -1,5 +1,5 @@
 # TextSummarizerAI
-This is a Rag based AI Model. It is built using various models from aws bedrock. This model will summarize the documents given to it. It can also answers your questions asked on the given document.
+This is a Rag based AI Model. It is built using various models from aws bedrock. This model will summarize the documents given to it. It can also answers your questions asked on the given document
 
 ## Features
 - Summarize large documents

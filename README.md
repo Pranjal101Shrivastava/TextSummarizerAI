@@ -13,3 +13,5 @@ This is a Rag based AI Model. It is built using various models from aws bedrock.
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+.
